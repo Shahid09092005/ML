@@ -11,7 +11,7 @@ Original file is located at
 
 !pip install -q kaggle
 from google.colab import files
-files.upload()
+files.upload() 
 
 !mkdir ~/.kaggle
 
