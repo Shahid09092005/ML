@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1KB-fEi_F8uTvh3J8iVmOQhvfymiTV8rZ
 """
 
-!pip install -q kaggle
+!pip install -q kaggle 
 
 from google.colab import files
 files.upload()
